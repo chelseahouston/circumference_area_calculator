@@ -30,4 +30,6 @@ int main() {
   cout << "\n  s                   s";
   cout << "\nt s e b s i C i s b e s t";
 
+  return 0;
+
 }
