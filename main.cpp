@@ -1,4 +1,3 @@
-//calcult
 #include <iostream>
 using namespace std;
 
