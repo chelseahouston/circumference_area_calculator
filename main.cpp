@@ -21,4 +21,13 @@ int main() {
   cout << "The circumference of a circle with a diameter of " << d << " is "<< c; // output circumference
   cout << "\nThe area of a circle with a diameter of " << d << " is " << a; // output area
 
+  // bit of fun task ---
+  cout << "\n\n            C";
+  cout << "\n          i   i";
+  cout << "\n        s       s";
+  cout << "\n      b           b";
+  cout << "\n    e               e";
+  cout << "\n  s                   s";
+  cout << "\nt s e b s i C i s b e s t";
+
 }
