@@ -13,7 +13,7 @@ int main() {
   cout << "The circumference of a circle with a diameter of 6 is " << circumference; // output circumference
 
   // task 02 --- user input diameter | calculate circumference and area
-  cout << "\n\nPlease enter the diameter of a circle to work out the circumference: ";
+  cout << "\n\nPlease enter the diameter of a circle to work out the circumference and area: ";
   cin >> d; //user input diameter (d)
   r = d/ 2; // calculate radius (r)
   c = 2 * pi * r; // calculate circumference (c)
